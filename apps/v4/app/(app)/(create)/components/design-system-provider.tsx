@@ -9,6 +9,7 @@ import {
   type DesignSystemConfig,
 } from "@/registry/config"
 import { useIframeMessageListener } from "@/app/(app)/(create)/hooks/use-iframe-sync"
+import { applyCustomColor } from "@/app/(app)/(create)/lib/custom-color"
 import { FONTS } from "@/app/(app)/(create)/lib/fonts"
 import {
   useDesignSystemSearchParams,
@@ -83,6 +84,7 @@ export function DesignSystemProvider({
     chartColor,
     menuAccent,
     menuColor,
+    customColor,
     pointer,
     radius,
   } = searchParams
@@ -205,8 +207,16 @@ export function DesignSystemProvider({
       radius: effectiveRadius,
     }
 
-    return buildRegistryTheme(config)
-  }, [baseColor, theme, chartColor, menuAccent, effectiveRadius])
+    const built = buildRegistryTheme(config)
+    return {
+      ...built,
+      cssVars: applyCustomColor(
+        built.cssVars,
+        customColor,
+        menuAccent === "bold"
+      ),
+    }
+  }, [baseColor, theme, chartColor, menuAccent, effectiveRadius, customColor])
 
   // Use useLayoutEffect for synchronous CSS var updates.
   React.useLayoutEffect(() => {

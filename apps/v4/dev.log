@@ -1,0 +1,858 @@
+npm warn Unknown project config "auto-install-peers". This will stop working in the next major version of npm.
+npm warn Unknown project config "link-workspace-packages". This will stop working in the next major version of npm.
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:4010
+- Network:       http://172.20.10.2:4010
+✓ Ready in 807ms
+✓ Running next.config.mjs took 93ms
+[MDX] generated files in 45.35710000000017ms
+[MDX] started dev server
+- Experiments (use with caution):
+  · optimizePackageImports
+
+✓ Generated AGENTS.md and CLAUDE.md for AI agents. Set `agentRules: false` in next.config to disable.
+○ Compiling /create ...
+ GET /create?customColor=e11d48 200 in 46s (next.js: 41s, application-code: 5.3s)
+○ Compiling /preview/[base]/[name] ...
+ GET /preview/base/preview-02?customColor=e11d48 200 in 4.0s (next.js: 2.2s, generate-params: 1135ms, application-code: 628ms)
+ GET /create 200 in 454ms (next.js: 125ms, application-code: 328ms)
+ GET /preview/base/preview-02 200 in 368ms (next.js: 135ms, generate-params: 11ms, application-code: 222ms)
+ GET /preview/base/preview-02 200 in 338ms (next.js: 15ms, generate-params: 13ms, application-code: 310ms)
+ GET /preview/aria/preview-02?base=aria&customColor=01237e 200 in 289ms (next.js: 15ms, generate-params: 15ms, application-code: 259ms)
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+ GET /preview/radix/preview-02?base=radix&customColor=01237e 200 in 338ms (next.js: 21ms, generate-params: 11ms, application-code: 306ms)
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+ GET /preview/aria/preview-02?base=aria&customColor=01237e 200 in 253ms (next.js: 23ms, generate-params: 0.0ms, application-code: 230ms)
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+ GET /preview/aria/preview?preset=b1PzeK&base=aria&item=preview&theme=blue&customColor=b76e4d 200 in 240ms (next.js: 18ms, generate-params: 41ms, application-code: 181ms)
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+ GET /preview/aria/preview?preset=b1PzeK&base=aria&item=preview&theme=blue&customColor=b76e4d 200 in 153ms (next.js: 14ms, generate-params: 14ms, application-code: 125ms)
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+[browser] An aria-label or aria-labelledby prop is required for accessibility.
+○ Compiling /docs/[[...slug]] ...
+ GET /create 200 in 174ms (next.js: 36ms, application-code: 138ms)
+ GET /preview/base/preview-02 200 in 800ms (next.js: 39ms, generate-params: 41ms, application-code: 720ms)
+ GET /typeset 200 in 18.7s (next.js: 18.6s, application-code: 51ms)
+ GET /create 200 in 388ms (next.js: 247ms, application-code: 141ms)
+ GET /create?preset=bKsFBxgG 200 in 592ms (next.js: 57ms, application-code: 535ms)
+ GET /preview/base/preview-02?preset=bKsFBxgG&style=luma&theme=blue&chartColor=stone&baseColor=stone 200 in 1126ms (next.js: 575ms, generate-params: 38ms, application-code: 512ms)
+ GET /create?base=aria&preset=b1PzeK 200 in 918ms (next.js: 81ms, application-code: 837ms)
+ GET /preview/aria/preview-02?preset=b1PzeK&base=aria&theme=blue 200 in 1596ms (next.js: 716ms, generate-params: 28ms, application-code: 852ms)
+ GET /preview/base/preview-02?preset=b1PzeK&theme=blue 200 in 601ms (next.js: 196ms, generate-params: 15ms, application-code: 389ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /create?preset=bKsFBxgG&customColor=3c3ebe 200 in 812ms (next.js: 92ms, application-code: 720ms)
+ GET /create?customColor=22c55e 200 in 334ms (next.js: 25ms, application-code: 309ms)
+ GET /preview/base/preview-02?preset=bKsFBxgG&customColor=3c3ebe 200 in 864ms (next.js: 278ms, generate-params: 10ms, application-code: 575ms)
+ GET /preview/base/preview-02?customColor=22c55e 200 in 273ms (next.js: 22ms, generate-params: 0.0ms, application-code: 251ms)
+ GET /preview/base/preview-02?preset=bKsFBxgG&style=luma&theme=blue&chartColor=stone&baseColor=stone&customColor=3c3ebe 200 in 865ms (next.js: 35ms, generate-params: 18ms, application-code: 813ms)
+ GET /preview/base/preview-02?customColor=22c55e 200 in 612ms (next.js: 73ms, generate-params: 0.0ms, application-code: 539ms)
+ GET /create?customColor=22c55e 200 in 408ms (next.js: 60ms, application-code: 348ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02?customColor=22c55e 200 in 433ms (next.js: 102ms, generate-params: 19ms, application-code: 312ms)
+ GET /create?preset=bKsFBxgG&customColor=3c3ebe 200 in 401ms (next.js: 23ms, application-code: 378ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02?preset=bKsFBxgG&style=luma&theme=blue&chartColor=stone&baseColor=stone&customColor=3c3ebe 200 in 341ms (next.js: 32ms, generate-params: 21ms, application-code: 288ms)
+ GET /create 200 in 307ms (next.js: 102ms, application-code: 205ms)
+ GET /preview/base/preview-02 200 in 1122ms (next.js: 682ms, generate-params: 13ms, application-code: 427ms)
+ GET /preview/base/preview-02 200 in 369ms (next.js: 18ms, generate-params: 0.0ms, application-code: 351ms)
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[browser] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+ GET /create?preset=bKsFBxgG&customColor=3c3ebe 200 in 82ms (next.js: 12ms, application-code: 70ms)
+ GET /preview/base/preview-02?preset=bKsFBxgG&style=luma&theme=blue&chartColor=stone&baseColor=stone&customColor=3c3ebe 200 in 258ms (next.js: 20ms, generate-params: 15ms, application-code: 223ms)
+✓ Compiled in 5.1s
+ GET /create 200 in 512ms (next.js: 19ms, application-code: 493ms)
+ GET /create?preset=bKsEuMcK&customColor=3c3ebe 200 in 456ms (next.js: 13ms, application-code: 443ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02?preset=bKsEuMcK&customColor=3c3ebe 200 in 592ms (next.js: 207ms, generate-params: 0.0ms, application-code: 385ms)
+ GET /preview/base/preview-02 200 in 596ms (next.js: 33ms, generate-params: 12ms, application-code: 551ms)
+ GET /create?preset=bLTkEKAq&customColor=3c3ebe 200 in 145ms (next.js: 23ms, application-code: 122ms)
+ GET /preview/base/preview-02?preset=bLTkEKAq&style=rhea&theme=amber&chartColor=stone&baseColor=stone&radius=large&customColor=3c3ebe 200 in 492ms (next.js: 170ms, generate-params: 18ms, application-code: 303ms)
+ GET /create?preset=bLTkEKAq&customColor=3c3ebe 200 in 111ms (next.js: 30ms, application-code: 81ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02?preset=bLTkEK6i&customColor=3c3ebe 200 in 521ms (next.js: 24ms, generate-params: 15ms, application-code: 482ms)
+ GET /create?preset=bLTkEKAq&customColor=3c3ebe 200 in 104ms (next.js: 39ms, application-code: 66ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02?preset=bLTkEK6i&customColor=3c3ebe 200 in 494ms (next.js: 33ms, generate-params: 18ms, application-code: 443ms)
+ GET /create?preset=bLTkEKAq&customColor=3c3ebe 200 in 54ms (next.js: 15ms, application-code: 39ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02?preset=bLTkEK6i&customColor=3c3ebe 200 in 258ms (next.js: 29ms, generate-params: 10ms, application-code: 219ms)
+✓ Compiled in 4s
+ GET /create?preset=bLTkEKAq&customColor=3c3ebe 200 in 117ms (next.js: 21ms, application-code: 96ms)
+ GET /preview/base/preview-02?preset=bLTkEKAq&style=rhea&theme=amber&chartColor=stone&baseColor=stone&radius=large&customColor=3c3ebe 200 in 507ms (next.js: 128ms, generate-params: 23ms, application-code: 356ms)
+ GET /create?preset=bKsI1x32&customColor=3c3ebe 200 in 120ms (next.js: 33ms, application-code: 87ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02?preset=bKsI1x32&customColor=3c3ebe 200 in 302ms (next.js: 55ms, generate-params: 25ms, application-code: 222ms)
+ GET /create?preset=bKsI1x32&customColor=142d28 200 in 182ms (next.js: 22ms, application-code: 159ms)
+ GET /preview/base/preview-02?preset=bKsI1x32&style=luma&theme=red&chartColor=stone&baseColor=stone&radius=large&customColor=142d28 200 in 1189ms (next.js: 106ms, generate-params: 22ms, application-code: 1061ms)
+ GET /create?preset=bKsI1x32&customColor=142d28 200 in 104ms (next.js: 11ms, application-code: 94ms)
+ GET /preview/base/preview-02?preset=bKsI1x32&style=luma&theme=red&chartColor=stone&baseColor=stone&radius=large&customColor=142d28 200 in 286ms (next.js: 19ms, generate-params: 12ms, application-code: 256ms)
+ GET /create 200 in 132ms (next.js: 9ms, application-code: 123ms)
+ GET /preview/base/preview-02 200 in 252ms (next.js: 17ms, generate-params: 14ms, application-code: 222ms)
+ GET / 200 in 3.8s (next.js: 2.6s, application-code: 1197ms)
+ GET /create 200 in 272ms (next.js: 26ms, application-code: 246ms)
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02 200 in 294ms (next.js: 72ms, generate-params: 10ms, application-code: 211ms)
+✓ Compiled in 12.7s
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /create 404 in 1404ms (next.js: 1124ms, application-code: 279ms)
+ GET /create 404 in 2.9s (next.js: 2.6s, application-code: 297ms)
+[browser] ./apps/v4/app/(app)/(root)
+Error: You cannot have two parallel pages that resolve to the same path. Please check /(app)/(create) and /(app)/(root). 
+[browser] ./apps/v4/app/(app)/(root)
+Error: You cannot have two parallel pages that resolve to the same path. Please check /(app)/(create) and /(app)/(root). 
+[browser] ./apps/v4/app/(app)/(root)
+Error: You cannot have two parallel pages that resolve to the same path. Please check /(app)/(create) and /(app)/(root). 
+[browser] ./apps/v4/app/(app)/(root)
+Error: You cannot have two parallel pages that resolve to the same path. Please check /(app)/(create) and /(app)/(root). 
+[browser] ./apps/v4/app/(app)/(root)
+Error: You cannot have two parallel pages that resolve to the same path. Please check /(app)/(create) and /(app)/(root). 
+[browser] ./apps/v4/app/(app)/(root)
+Error: You cannot have two parallel pages that resolve to the same path. Please check /(app)/(create) and /(app)/(root). 
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(node:31296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /preview/base/preview-02 200 in 1863ms (next.js: 21ms, generate-params: 12ms, application-code: 1829ms)
+ GET /preview/base/preview-02 200 in 3.8s (next.js: 592ms, generate-params: 14ms, application-code: 3.2s)
+ GET /preview/base/preview-02 200 in 924ms (next.js: 545ms, generate-params: 0.0ms, application-code: 378ms)
+ GET /preview/base/preview-02 200 in 2.5s (next.js: 87ms, generate-params: 0.2ms, application-code: 2.4s)
+ GET /preview/base/preview-02 200 in 2.4s (next.js: 293ms, generate-params: 0.1ms, application-code: 2.2s)
+ GET /create 404 in 941ms (next.js: 22ms, application-code: 919ms)
+X [ERROR] The entry point "source.config.ts" cannot be marked as external
+
+⨯ unhandledRejection: Error: Build failed with 1 error:
+error: The entry point "source.config.ts" cannot be marked as external
+    at ignore-listed frames {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: null,
+      notes: [],
+      pluginName: '',
+      text: 'The entry point "source.config.ts" cannot be marked as external'
+    }
+  ],
+  warnings: []
+}
+[MDX] generated files in 1102.8818999999203ms
+[MDX] generated files in 1109.4430999998003ms
+[MDX] generated files in 1100.9553999998607ms
+[MDX] generated files in 1099.8985000001267ms
+[MDX] generated files in 1099.0400999998674ms
+[MDX] generated files in 1103.3559000003152ms
+[MDX] generated files in 1096.0230000000447ms
+[MDX] generated files in 1092.7162000001408ms
+[MDX] generated files in 1092.2579000000842ms
+[MDX] generated files in 1090.907600000035ms
+[MDX] generated files in 1090.2957000001334ms
+[MDX] generated files in 1089.834399999585ms
+[MDX] generated files in 1089.3816999997944ms
+[MDX] generated files in 1089.0813000001945ms
+[MDX] generated files in 1088.4826000002213ms
+[MDX] generated files in 1087.5438000001013ms
+[MDX] generated files in 1087.369399999734ms
+[MDX] generated files in 1087.123900000006ms
+[MDX] generated files in 1086.1746000000276ms
+[MDX] generated files in 1084.9166000001132ms
+[MDX] generated files in 1084.502100000158ms
+[MDX] generated files in 1083.5372999999672ms
+[MDX] generated files in 1082.718700000085ms
+[MDX] generated files in 1082.0205999999307ms
+[MDX] generated files in 1081.9296000003815ms
+[MDX] generated files in 1080.6998000000603ms
+[MDX] generated files in 1080.4717999999411ms
+[MDX] generated files in 1080.2905000001192ms
+[MDX] generated files in 1079.957999999635ms
+[MDX] generated files in 1079.4473999999464ms
+[MDX] generated files in 1078.9281999999657ms
+[MDX] generated files in 1078.000500000082ms
+[MDX] generated files in 1077.9478999995627ms
+[MDX] generated files in 1077.906500000041ms
+[MDX] generated files in 1077.7531999996863ms
+[MDX] generated files in 1077.75530000031ms
+[MDX] generated files in 1078.508300000336ms
+[MDX] generated files in 1078.059299999848ms
+[MDX] generated files in 1077.6754999998957ms
+[MDX] generated files in 1077.5367999998853ms
+[MDX] generated files in 1077.5183000001125ms
+[MDX] generated files in 1077.5120999999344ms
+[MDX] generated files in 1077.74189999979ms
+[MDX] generated files in 1077.8832000000402ms
+[MDX] generated files in 1077.9076999998651ms
+[MDX] generated files in 1077.915400000289ms
+[MDX] generated files in 1077.9230999997817ms
+[MDX] generated files in 1078.4354000003077ms
+[MDX] generated files in 1078.6177000002936ms
+[MDX] generated files in 1078.8072000001557ms
+[MDX] generated files in 1079.0330000002868ms
+[MDX] generated files in 1078.964399999939ms
+[MDX] generated files in 1078.255000000354ms
+[MDX] generated files in 1077.655100000091ms
+[MDX] generated files in 1078.3201000001281ms
+[MDX] generated files in 1077.7631999999285ms
+[MDX] generated files in 1077.6112000001594ms
+[MDX] generated files in 1077.6377999996766ms
+[MDX] generated files in 1077.0800999999046ms
+[MDX] generated files in 1076.5213999999687ms
+[MDX] generated files in 1076.2950000003912ms
+[MDX] generated files in 1076.024499999825ms
+[MDX] generated files in 1075.5459999996237ms
+[MDX] generated files in 1077.1019000001252ms
+[MDX] generated files in 1077.1137999999337ms
+[MDX] generated files in 1075.1197999999858ms
+[MDX] generated files in 1075.3724000002258ms
+[MDX] generated files in 1075.2647000001743ms
+[MDX] generated files in 1075.1912999995984ms
+[MDX] generated files in 1075.132500000298ms
+[MDX] generated files in 1075.0518000000156ms
+[MDX] generated files in 1074.0159999998286ms
+[MDX] generated files in 1073.7645999998786ms
+[MDX] generated files in 1071.0115000000224ms
+[MDX] generated files in 1070.0047999997623ms
+[MDX] generated files in 1068.8094000001438ms
+[MDX] generated files in 1068.7738999999128ms
+[MDX] generated files in 1066.5185000002384ms
+[MDX] generated files in 1064.7689000000246ms
+[MDX] generated files in 1063.9704999998212ms
+[MDX] generated files in 1063.7873999997973ms
+[MDX] generated files in 1063.4487999998964ms
+[MDX] generated files in 1062.7822999996133ms
+[MDX] generated files in 1062.2033000001684ms
+[MDX] generated files in 1062.0731000001542ms
+[MDX] generated files in 1056.8501999997534ms
+[MDX] generated files in 1056.3572999997996ms
+[MDX] generated files in 1054.9623000002466ms
+[MDX] generated files in 1055.4351999997161ms
+[MDX] generated files in 1055.7404000000097ms
+[MDX] generated files in 1056.6139000002295ms
+[MDX] generated files in 1054.0474999998696ms
+[MDX] generated files in 1050.506100000348ms
+[MDX] generated files in 1050.3637999999337ms
+[MDX] generated files in 1048.4761999999173ms
+[MDX] generated files in 1047.035300000105ms
+[MDX] generated files in 1045.7552000000142ms
+[MDX] generated files in 1046.1162000000477ms
+[MDX] generated files in 1044.2280999999493ms
+[MDX] generated files in 1042.8005000003614ms
+[MDX] generated files in 1040.9826000002213ms
+[MDX] generated files in 1040.7374999998137ms
+[MDX] generated files in 1040.6091000000015ms
+[MDX] generated files in 1040.5626999996603ms
+[MDX] generated files in 1040.781700000167ms
+[MDX] generated files in 1041.0890999999829ms
+[MDX] generated files in 1041.2383000003174ms
+[MDX] generated files in 1041.474400000181ms
+[MDX] generated files in 1041.465799999889ms
+[MDX] generated files in 1041.6054000002332ms
+[MDX] generated files in 1041.4618999999948ms
+[MDX] generated files in 1042.2415999998339ms
+[MDX] generated files in 1042.8316999999806ms
+[MDX] generated files in 1043.310399999842ms
+[MDX] generated files in 1043.2571999998763ms
+[MDX] generated files in 1044.0047999997623ms
+[MDX] generated files in 1044.0564000001177ms
+[MDX] generated files in 1045.0643999995664ms
+[MDX] generated files in 1046.4308000002056ms
+[MDX] generated files in 1047.9406000003219ms
+[MDX] generated files in 1047.4379999996163ms
+[MDX] generated files in 1045.9743999997154ms
+[MDX] generated files in 1045.6817000000738ms
+[MDX] generated files in 1044.7406999999657ms
+[MDX] generated files in 1044.0205000001006ms
+[MDX] generated files in 1044.0386999999173ms
+[MDX] generated files in 1047.9363000001758ms
+[MDX] generated files in 1047.2001999998465ms
+[MDX] generated files in 1045.2374999998137ms
+[MDX] generated files in 1044.8025000002235ms
+[MDX] generated files in 1049.5408999999054ms
+[MDX] generated files in 1049.5572999999858ms
+[MDX] generated files in 1049.4567999998108ms
+[MDX] generated files in 1049.435300000012ms
+[MDX] generated files in 1052.0125000001863ms
+[MDX] generated files in 1051.6720000002533ms
+[MDX] generated files in 1051.8654999998398ms
+[MDX] generated files in 1055.0246999999508ms
+[MDX] generated files in 1054.9435999998823ms
+[MDX] generated files in 1052.5146999997087ms
+[MDX] generated files in 1051.4512000000104ms
+[MDX] generated files in 1051.0370999998413ms
+[MDX] generated files in 1056.253500000108ms
+[MDX] generated files in 1061.430999999866ms
+[MDX] generated files in 1064.0150999999605ms
+[MDX] generated files in 1065.9145999997854ms
+[MDX] generated files in 1064.9268000000156ms
+[MDX] generated files in 1064.6724000000395ms
+[MDX] generated files in 1066.1711999997497ms
+[MDX] generated files in 1066.0361999999732ms
+[MDX] generated files in 1065.7343999999575ms
+[MDX] generated files in 1065.5208000000566ms
+[MDX] generated files in 1065.3508999999613ms
+[MDX] generated files in 1068.2062999997288ms
+[MDX] generated files in 1068.4893000000156ms
+[MDX] generated files in 1068.5053999996744ms
+[MDX] generated files in 1070.068700000178ms
+[MDX] generated files in 1070.5778999999166ms
+[MDX] generated files in 1070.5640000002459ms
+[MDX] generated files in 1070.5454000001773ms
+[MDX] generated files in 1069.941300000064ms
+[MDX] generated files in 1072.5206999997608ms
+[MDX] generated files in 1072.9391999999061ms
+[MDX] generated files in 1072.3544999998994ms
+[MDX] generated files in 1071.592399999965ms
+[MDX] generated files in 1071.1677999999374ms
+[MDX] generated files in 1074.88170000026ms
+[MDX] generated files in 1075.8651999998838ms
+[MDX] generated files in 1075.3974000001326ms
+[MDX] generated files in 1074.2845999998972ms
+[MDX] generated files in 1075.9379000002518ms
+[MDX] generated files in 1075.4964000000618ms
+[MDX] generated files in 1075.8061000001617ms
+[MDX] generated files in 1075.6149999997579ms
+[MDX] generated files in 1078.0082999998704ms
+[MDX] generated files in 1077.9728999999352ms
+[MDX] generated files in 1077.7579999999143ms
+[MDX] generated files in 1077.1584999999031ms
+[MDX] generated files in 1076.7439999999478ms
+[MDX] generated files in 1076.3889999999665ms
+[MDX] generated files in 1078.2093000002205ms
+[MDX] generated files in 1077.4838999998756ms
+[MDX] generated files in 1079.3339999997988ms
+[MDX] generated files in 1078.1786000002176ms
+[MDX] generated files in 1078.0481999996118ms
+[MDX] generated files in 1077.7061000000685ms
+[MDX] generated files in 1077.3171999999322ms
+[MDX] generated files in 1077.092999999877ms
+[MDX] generated files in 1078.648999999743ms
+[MDX] generated files in 1085.3099999995902ms
+[MDX] generated files in 1085.3703000000678ms
+[MDX] generated files in 1088.1272999998182ms
+[MDX] generated files in 1088.4915000000037ms
+[MDX] generated files in 1088.258600000292ms
+[MDX] generated files in 1087.9580000001006ms
+[MDX] generated files in 1090.5572999999858ms
+[MDX] generated files in 1090.723000000231ms
+[MDX] generated files in 1090.098100000061ms
+[MDX] generated files in 1090.877199999988ms
+[MDX] generated files in 1090.0792999998666ms
+[MDX] generated files in 1089.5552000002936ms
+[MDX] generated files in 1089.2033000001684ms
+[MDX] generated files in 1092.5430999998935ms
+[MDX] generated files in 1093.3231000001542ms
+[MDX] generated files in 1091.2843999997713ms
+[MDX] generated files in 1090.4099000003189ms
+[MDX] generated files in 1089.88170000026ms
+[MDX] generated files in 1089.5973999998532ms
+[MDX] generated files in 1090.7856999998912ms
+[MDX] generated files in 1090.278500000015ms
+[MDX] generated files in 1090.093700000085ms
+[MDX] generated files in 1090.1251999996603ms
+[MDX] generated files in 1093.9325000001118ms
+[MDX] generated files in 1093.4044000003487ms
+[MDX] generated files in 1093.3848999999464ms
+[MDX] generated files in 1095.6240000003017ms
+[MDX] generated files in 1097.4809000003152ms
+[MDX] generated files in 1096.194000000134ms
+[MDX] generated files in 1096.844800000079ms
+[MDX] generated files in 1095.931599999778ms
+[MDX] generated files in 1095.6248999997042ms
+[MDX] generated files in 1091.6299999998882ms
+[MDX] generated files in 1089.8947000000626ms
+[MDX] generated files in 1091.0770000000484ms
+[MDX] generated files in 1093.8855999996886ms
+[MDX] generated files in 1093.0824000001885ms
+[MDX] generated files in 1092.3436000002548ms
+[MDX] generated files in 1094.7302000001073ms
+[MDX] generated files in 1095.6241000001319ms
+[MDX] generated files in 1095.4623000002466ms
+[MDX] generated files in 1096.6538000004366ms
+[MDX] generated files in 1099.2931999997236ms
+[MDX] generated files in 1087.028599999845ms
+[MDX] generated files in 1088.5243999999948ms
+[MDX] generated files in 1088.0748000000603ms
+[MDX] generated files in 1087.6862999997102ms
+[MDX] generated files in 1087.622599999886ms
+[MDX] generated files in 1088.6498000002466ms
+[MDX] generated files in 1086.305199999828ms
+[MDX] generated files in 1086.116199999582ms
+[MDX] generated files in 1085.7242000000551ms
+[MDX] generated files in 1086.4992999997921ms
+[MDX] generated files in 1089.1537000001408ms
+[MDX] generated files in 1088.2045999998227ms
+[MDX] generated files in 1088.933199999854ms
+[MDX] generated files in 1086.5936000002548ms
+[MDX] generated files in 1087.5800000000745ms
+[MDX] generated files in 1087.2104000002146ms
+[MDX] generated files in 1087.562700000126ms
+[MDX] generated files in 1090.4286000002176ms
+[MDX] generated files in 1090.5006999997422ms
+[MDX] generated files in 1088.3924000002444ms
+[MDX] generated files in 1087.8196999998763ms
+[MDX] generated files in 1087.536900000181ms
+[MDX] generated files in 1087.4545999998227ms
+[MDX] generated files in 1089.8511999999173ms
+[MDX] generated files in 1085.50139999995ms
+[MDX] generated files in 1085.2083000000566ms
+[MDX] generated files in 1086.843499999959ms
+[MDX] generated files in 1084.565900000278ms
+[MDX] generated files in 1084.2541999998502ms
+[MDX] generated files in 1083.0834999997169ms
+[MDX] generated files in 1083.8413000004366ms
+[MDX] generated files in 1084.0677000000142ms
+[MDX] generated files in 1086.5408000000753ms
+[MDX] generated files in 1087.0907000000589ms
+[MDX] generated files in 1087.6373999998905ms
+[MDX] generated files in 1090.1444000001065ms
+[MDX] generated files in 1072.249799999874ms
+[MDX] generated files in 1071.8218999998644ms
+[MDX] generated files in 1072.754200000316ms
+[MDX] generated files in 1072.7788000004366ms
+[MDX] generated files in 1077.0090999999084ms
+[MDX] generated files in 1075.2154000001028ms
+[MDX] generated files in 1075.0616000001319ms
+[MDX] generated files in 1075.05709999986ms
+[MDX] generated files in 1075.0496000000276ms
+[MDX] generated files in 1074.7776000001468ms
+[MDX] generated files in 1076.4563000001945ms
+[MDX] generated files in 1076.5858000000007ms
+[MDX] generated files in 1076.4308000002056ms
+[MDX] generated files in 1074.1173999998719ms
+[MDX] generated files in 1076.3640999998897ms
+[MDX] generated files in 1076.4015999999829ms
+[MDX] generated files in 1075.6868000002578ms
+[MDX] generated files in 1075.523199999705ms
+[MDX] generated files in 1076.2343999999575ms
+[MDX] generated files in 1074.366399999708ms
+[MDX] generated files in 1072.7039000000805ms
+[MDX] generated files in 1072.468299999833ms
+[MDX] generated files in 1071.9234000002034ms
+[MDX] generated files in 1072.2341000000015ms
+[MDX] generated files in 1074.3285000002943ms
+[MDX] generated files in 1066.0655999998562ms
+[MDX] generated files in 1063.7309000003152ms
+[MDX] generated files in 1063.3697999999858ms
+[MDX] generated files in 1063.3762999996543ms
+[MDX] generated files in 1063.1974999997765ms
+[MDX] generated files in 1062.531299999915ms
+[MDX] generated files in 1062.1128999996ms
+[MDX] generated files in 1062.028099999763ms
+[MDX] generated files in 1040.0715000000782ms
+[MDX] generated files in 1032.6324999998324ms
+[MDX] generated files in 1032.463099999819ms
+[MDX] generated files in 1028.7771000000648ms
+[MDX] generated files in 1028.4543999996968ms
+[MDX] generated files in 1027.3005000003614ms
+[MDX] generated files in 1026.7626999998465ms
+[MDX] generated files in 1026.533900000155ms
+[MDX] generated files in 1026.1553000002168ms
+[MDX] generated files in 1025.9568000002764ms
+[MDX] generated files in 1025.6631000000052ms
+[MDX] generated files in 1025.743799999822ms
+[MDX] generated files in 1028.317000000272ms
+[MDX] generated files in 1029.6820000000298ms
+[MDX] generated files in 1029.6867000004277ms
+[MDX] generated files in 1029.0046999999322ms
+[MDX] generated files in 1027.0765999997966ms
+[MDX] generated files in 1027.7749000000767ms
+[MDX] generated files in 1029.5236000004224ms
+[MDX] generated files in 1029.5471999999136ms
+[MDX] generated files in 1030.2252999995835ms
+[MDX] generated files in 1030.2672000001185ms
+[MDX] generated files in 1029.6329999999143ms
+[MDX] generated files in 1029.6137999999337ms
+[MDX] generated files in 1029.6293999999762ms
+[MDX] generated files in 1029.8245999999344ms
+[MDX] generated files in 1031.1962999999523ms
+[MDX] generated files in 1031.2547999997623ms
+[MDX] generated files in 1031.2302999999374ms
+[MDX] generated files in 1030.967900000047ms
+[MDX] generated files in 1030.6045999997295ms
+[MDX] generated files in 1026.1125999996439ms
+[MDX] generated files in 1027.8546999995597ms
+[MDX] generated files in 1027.7893999996595ms
+[MDX] generated files in 1032.8393000001088ms
+[MDX] generated files in 1032.8983000000007ms
+[MDX] generated files in 1032.727600000333ms
+[MDX] generated files in 1032.5602000001818ms
+[MDX] generated files in 1032.3571999999695ms
+[MDX] generated files in 1032.149299999699ms
+[MDX] generated files in 1033.4977000001818ms
+[MDX] generated files in 1032.9030000003986ms
+[MDX] generated files in 1032.8417000002228ms
+[MDX] generated files in 1032.4835999999195ms
+[MDX] generated files in 1032.3549999999814ms
+[MDX] generated files in 1031.1593999997713ms
+[MDX] generated files in 1032.2105000000447ms
+[MDX] generated files in 1035.8883000002243ms
+[MDX] generated files in 1040.9683999996632ms
+[MDX] generated files in 909.0164999999106ms
+[MDX] generated files in 909.4510999997146ms
+[MDX] generated files in 910.5190000003204ms
+[MDX] generated files in 909.94150000019ms
+[MDX] generated files in 909.7796000000089ms
+[MDX] generated files in 909.9513000003062ms
+[MDX] generated files in 909.5989999999292ms
+[MDX] generated files in 910.971400000155ms
+[MDX] generated files in 911.0826000003144ms
+[MDX] generated files in 911.3919000001624ms
+[MDX] generated files in 911.4176000002772ms
+[MDX] generated files in 911.3546000001952ms
+[MDX] generated files in 911.9834000002593ms
+[MDX] generated files in 911.9540999997407ms
+[MDX] generated files in 911.940700000152ms
+[MDX] generated files in 911.9574000001885ms
+[MDX] generated files in 911.8855000003241ms
+[MDX] generated files in 914.5694999997504ms
+[MDX] generated files in 914.7209999999031ms
+[MDX] generated files in 914.7541000000201ms
+[MDX] generated files in 915.2527999999002ms
+[MDX] generated files in 916.5379999997094ms
+[MDX] generated files in 918.0339999999851ms
+[MDX] generated files in 918.3111000000499ms
+[MDX] generated files in 918.1836000001058ms
+[MDX] generated files in 919.0350999999791ms
+[MDX] generated files in 918.1707999999635ms
+[MDX] generated files in 919.7934999996796ms
+[MDX] generated files in 918.8862000000663ms
+[MDX] generated files in 919.0562999998219ms
+[MDX] generated files in 920.5063000000082ms
+[MDX] generated files in 919.8525000000373ms
+[MDX] generated files in 920.5583000001498ms
+[MDX] generated files in 921.1173000000417ms
+[MDX] generated files in 921.0044999998063ms
+[MDX] generated files in 921.6611999999732ms
+[MDX] generated files in 922.1178999999538ms
+[MDX] generated files in 922.3573000002652ms
+[MDX] generated files in 922.8039000001736ms
+[MDX] generated files in 923.4789999998175ms
+[MDX] generated files in 923.5507000000216ms
+[MDX] generated files in 923.5699000000022ms
+[MDX] generated files in 923.5329999998212ms
+[MDX] generated files in 923.9517000000924ms
+[MDX] generated files in 924.3577999998815ms
+[MDX] generated files in 925.1018999996595ms
+[MDX] generated files in 925.1101999999955ms
+[MDX] generated files in 925.2140000001527ms
+[MDX] generated files in 926.0142999999225ms
+[MDX] generated files in 926.3620000001974ms
+[MDX] generated files in 926.3527999999933ms
+[MDX] generated files in 926.2393000000156ms
+[MDX] generated files in 925.8961000000127ms
+[MDX] generated files in 926.3980999998748ms
+[MDX] generated files in 926.0136000001803ms
+[MDX] generated files in 926.1192999999039ms
+⚠ Found a change in next.config.mjs. Restarting the server to apply the changes...
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:4010
+- Network:       http://172.20.10.2:4010
+✓ Ready in 895ms
+✓ Running next.config.mjs took 55ms
+- Experiments (use with caution):
+  · optimizePackageImports
+
+○ Compiling /_not-found/page ...
+ GET /create 404 in 14.3s (next.js: 13.8s, application-code: 477ms)
+ GET /create 404 in 758ms (next.js: 550ms, application-code: 208ms)
+ GET /create 404 in 394ms (next.js: 12ms, application-code: 383ms)
+ GET /create 404 in 287ms (next.js: 30ms, application-code: 257ms)
+ GET /create 404 in 324ms (next.js: 74ms, application-code: 250ms)
+ GET /create 404 in 57ms (next.js: 16ms, application-code: 41ms)
+ GET / 200 in 1728ms (next.js: 1469ms, application-code: 259ms)
+ GET /preview/base/preview-02 200 in 473ms
+ GET /preview/base/preview-02 200 in 2.3s (next.js: 20ms, generate-params: 1108ms, application-code: 1217ms)

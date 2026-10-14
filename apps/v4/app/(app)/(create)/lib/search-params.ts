@@ -94,6 +94,8 @@ const designSystemSearchParams = {
   pointer: parseAsBoolean.withDefault(false),
   size: parseAsInteger.withDefault(100),
   custom: parseAsBoolean.withDefault(false),
+  // Hex (no "#") that overrides the primary color. Not encoded in the preset.
+  customColor: parseAsString,
 }
 
 // Design system param keys that get encoded into the preset code.
@@ -130,6 +132,7 @@ const NON_DESIGN_SYSTEM_KEYS = [
   "pointer",
   "size",
   "custom",
+  "customColor",
 ] as const
 
 // Shared across hook instances so only one mount effect encodes the initial URL.
@@ -232,6 +235,7 @@ function resolvePresetParams(
         pointer: rawParams.pointer,
         size: rawParams.size,
         custom: rawParams.custom,
+        customColor: rawParams.customColor,
       })
     }
   }

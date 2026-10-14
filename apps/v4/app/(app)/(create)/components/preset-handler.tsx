@@ -13,7 +13,7 @@ export function PresetHandler() {
 
   React.useEffect(() => {
     if (params.preset === "random") {
-      router.replace(`/create?preset=${generateRandomPreset()}`)
+      router.replace(`/?preset=${generateRandomPreset()}`)
     }
   }, [params.preset, router])
 

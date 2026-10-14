@@ -38,6 +38,7 @@ export function useReset() {
       menuColor: preset.menuColor,
       radius: preset.radius,
       template: DEFAULT_CONFIG.template,
+      customColor: null,
       item: params.item,
     })
   }, [setParams, params.base, params.style, params.item])

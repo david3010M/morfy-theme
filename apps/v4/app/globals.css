@@ -42,6 +42,7 @@
 @custom-variant fixed (&:is(.layout-fixed *));
 
 @theme inline {
+  --color-brand-copper: var(--brand-copper);
   --breakpoint-3xl: 1600px;
   --breakpoint-4xl: 2000px;
   --font-sans: var(--font-sans);
@@ -97,6 +98,8 @@
 }
 
 :root {
+  /* MorfyDev: cobre de marca (docs/MORFYDEV-DESIGN-SYSTEM.md) */
+  --brand-copper: #b76e4d;
   --radius: 0.625rem;
   --background: oklch(1 0 0);
   --foreground: oklch(0% 0 0);

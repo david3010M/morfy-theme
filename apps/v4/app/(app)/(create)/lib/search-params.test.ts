@@ -13,6 +13,7 @@ describe("buildPresetUrlUpdate", () => {
       item: "preview-02",
       size: 100,
       custom: false,
+      customColor: null,
     })
 
     expect(update.preset).toBeTypeOf("string")
@@ -29,6 +30,7 @@ describe("buildPresetUrlUpdate", () => {
       item: "preview-02",
       size: 100,
       custom: false,
+      customColor: null,
     })
 
     expect(update.template).toBe("start")
@@ -44,6 +46,7 @@ describe("buildPresetUrlUpdate", () => {
         item: "preview-02",
         size: 100,
         custom: false,
+        customColor: null,
       },
       { template: "vite" }
     )

@@ -3,7 +3,6 @@ import { cn } from "cn"
 import { NuqsAdapter } from "nuqs/adapters/next/app"
 
 import { META_THEME_COLORS, siteConfig } from "@/lib/config"
-import { DOCS_SIDEBAR_SCROLL_RESTORE_SCRIPT } from "@/lib/docs-sidebar-scroll"
 import { fontVariables } from "@/lib/fonts"
 import { ActiveThemeProvider } from "@/components/active-theme"
 import { Analytics } from "@/components/analytics"
@@ -18,10 +17,7 @@ import "@/app/globals.css"
 import "@/app/(app)/(typeset)/typeset.css"
 
 export const metadata: Metadata = {
-  title: {
-    default: siteConfig.name,
-    template: `%s - ${siteConfig.name}`,
-  },
+  title: siteConfig.name,
   metadataBase: new URL(siteConfig.url),
   description: siteConfig.description,
   keywords: ["Next.js", "React", "Tailwind CSS", "Components", "shadcn"],
@@ -56,16 +52,10 @@ export const metadata: Metadata = {
     creator: "@shadcn",
   },
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon-16x16.png",
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
     apple: "/apple-touch-icon.png",
   },
   manifest: `${siteConfig.url}/site.webmanifest`,
-  alternates: {
-    types: {
-      "application/rss+xml": `${siteConfig.url}/rss.xml`,
-    },
-  },
 }
 
 export default function RootLayout({
@@ -83,11 +73,6 @@ export default function RootLayout({
       )}
     >
       <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: DOCS_SIDEBAR_SCROLL_RESTORE_SCRIPT,
-          }}
-        />
         <script
           dangerouslySetInnerHTML={{
             __html: `
